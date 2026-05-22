@@ -34,8 +34,9 @@ javac YoutubeDownloaderV2.java
 # Run
 java YoutubeDownloaderV2
 ```
+Or
 
-Or package it as a `.jar` and double-click.
+Double-click Launch V2.bat to start the downloader.
 
 ---
 
